@@ -15,4 +15,12 @@ describe('leapYear', function() {
     expect(leapYear(2000)).to.equal(true);
   });
 
+  it("is false for entries containing strings", function() {
+    expect(leapYear("hello")).to.equal(false);
+  });
+
+  it("is false for blank entries", function () {
+    expect(leapYear("")).to.equal(false);
+  });
+
 });
