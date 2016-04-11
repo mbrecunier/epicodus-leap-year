@@ -1,6 +1,6 @@
 # Leap Year Test
 
-##### Find out if a year is a leap year
+##### Find out if a year is a leap year, 1/15/16
 
 #### By Michelle Brecunier
 
@@ -19,7 +19,7 @@ Testing:  Mocha and Chai
 
 ### Legal
 
-Copyright (c) 2015 **Epicodus**
+Copyright (c) 2016 **Epicodus**
 
 This software is licensed under the MIT license.
 
